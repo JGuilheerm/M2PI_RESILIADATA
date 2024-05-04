@@ -1,7 +1,6 @@
 # M2PI_RESILIADATA
 Modulo 2 - Projeto Individual:  RESILIADATA
 
-Descrição do Projeto
 Este é um projeto individual desenvolvido como parte do Módulo 2, focado em Bancos de Dados. O objetivo do projeto é criar um banco de dados para o sistema RESILIADATA, que ajudará a avaliar as tecnologias utilizadas pelas empresas parceiras e quem são seus colaboradores.
 
 
