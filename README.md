@@ -3,9 +3,10 @@ Modulo 2 - Projeto Individual:  RESILIADATA
 
 
  1. Quais são as entidades necessárias?
-      Entidades necessarias são: EmpresasParceiras, Tecnologias, Colaboradores e a tabela de associação EmpresasParceirasTecno.
+       EmpresasParceiras, Tecnologias, Colaboradores e a tabela de associação EmpresasParceirasTecno.
 
-    
+    ![Captura de tela 2024-05-04 004309](https://github.com/JGuilheerm/M2PI_RESILIADATA/assets/113355002/2ffeb51e-559d-43a7-b510-50149d3ab342)
+
 
   
  3. Quais são os principais campos e seus respectivos tipos?
